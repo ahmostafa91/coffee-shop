@@ -1,0 +1,30 @@
+Manager:
+----------
+
+eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNpaEllRS1RdUI5ZlpvM1c3WnNIYSJ9.eyJpc3MiOiJodHRwczovL2NmLXByb2plY3QudXMuYXV0aDAuY29tLyIsInN1YiI6ImF1dGgwfDYwNDMxNDQzMzUxOWQ5MDA2OGY4M2IwMiIsImF1ZCI6ImNvZmZlZSIsImlhdCI6MTYxNTAwODkwOSwiZXhwIjoxNjE1MDk1MzA5LCJhenAiOiJvWEJ0enVxQTcxclFWMWpRYkhPZGRmNUF0bERIaXRTSCIsInNjb3BlIjoiIiwicGVybWlzc2lvbnMiOlsiZGVsZXRlOmRyaW5rcyIsImdldDpkcmlua3MtZGV0YWlsIiwicGF0Y2g6ZHJpbmtzIiwicG9zdDpkcmlua3MiXX0.C2jBprBuRzQJ-PRFfd0XhrOCkRYH_g0bVgI9Ph18lE3XXTbTysV6FYKJX-uaW1kFKHSppHOlfNJF5M-5dD5HMRY4WNxy32C021C7ReHGbcx_avyKVapZcMXopMPNpdet1IyJPz4nWHuka71yILMrEQBFMpnq5WL3bQEy-hm2XgeEdCDnqi0XR8eWYzwiLbp4HbKGQfb49N9Z30I9xfasVhOLzA8KCGdKt5m6p9LjaL5NEP1y7rVG0yNkOlnotLHPrVGR51tDbhRUVAsC-jHuALV3A76MC9rv4lSMKfMy_GUCSdVjdp0nTzexOl3sCfY7eZtpD511-6nv-x_asBXkFA
+
+/////////////////////////////////////////////////////////////////////////////
+
+Barista :
+----------
+
+eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNpaEllRS1RdUI5ZlpvM1c3WnNIYSJ9.eyJpc3MiOiJodHRwczovL2NmLXByb2plY3QudXMuYXV0aDAuY29tLyIsInN1YiI6ImF1dGgwfDYwNDMwNmExZmVjNmUzMDA2OTExYTIyOCIsImF1ZCI6ImNvZmZlZSIsImlhdCI6MTYxNTAwNzg5NCwiZXhwIjoxNjE1MDk0Mjk0LCJhenAiOiJvWEJ0enVxQTcxclFWMWpRYkhPZGRmNUF0bERIaXRTSCIsInNjb3BlIjoiIiwicGVybWlzc2lvbnMiOlsiZ2V0OmRyaW5rcy1kZXRhaWwiXX0.AtIiP4sJ8W70mdvG4sE4EibKHOyhsn3f2TjLa_7dggElEXDNefUh2YAN7nB0I_TdD0u1by7w2zmfgaJonDAj-AGDb1mHX6jrxY1ktany6eAawvNIAyqP702u3D8VHDk4ygLA2kzRY6ojFTi2iyK3GLA3RtmI4fdkkZgP_8LotzJi32jVl18gazKpNsBuTq51DKPPY6vvR0OWZgCGjCwijJIjA-ycVouf7n9PsSpnHqQcFem2ywEriKKJsCo20tFBJhz4RmjfPnvc6GjpCha85kH6WSeF5-cvosZBaE62JunalwPY5348COIJx8b9FJveltRJXEVPZbNrGS1H9e8FsA
+
+
+///////////////////////////////////////////////////////////////////////////////
+
+url and emails to generate tokens if expired:
+---------------------------------------------
+
+url :
+https://cf-project.us.auth0.com/authorize?audience=coffee&response_type=token&client_id=oXBtzuqA71rQV1jQbHOddf5AtlDHitSH&redirect_uri=http://localhost:8100
+
+-----------------------------------------------------------
+
+email for Barista : test@test.com
+password for Barista email : a123456!
+
+
+
+email for Manager: test1@test.com
+password for Manager email : a123456!
